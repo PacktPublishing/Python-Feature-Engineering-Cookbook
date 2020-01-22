@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Python Machine Learning By Example - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789616729) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Example-intelligent/dp/1789616727)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Soledad Galli**
 is a lead data scientist with more than 10 years of experience in world-class academic institutions and renowned businesses. She has researched, developed, and put into production machine learning models for insurance claims, credit risk assessment, and fraud prevention. Soledad received a Data Science Leaders' award in 2018 and was named one of LinkedIn's voices in data science and analytics in 2019. She is passionate about enabling people to step into and excel in data science, which is why she mentors data scientists and speaks at data science meetings regularly. She also teaches online courses on machine learning in a prestigious Massive Open Online Course platform, which have reached more than 10,000 students worldwide.
 
