@@ -52,7 +52,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Python Machine Learning Cookbook - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0?utm_source=github&utm_medium=repository&utm_campaign=9781789808452) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Cookbook-real-world/dp/1789808456)
 
-* Blockchain Quick Reference [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789616729) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Example-intelligent/dp/1789616727)
+* Python Machine Learning By Example - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789616729) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Example-intelligent/dp/1789616727)
 
 ## Get to Know the Authors
 **Soledad Galli**
